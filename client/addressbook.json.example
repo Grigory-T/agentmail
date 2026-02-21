@@ -1,0 +1,10 @@
+{
+    "alice": {
+        "signing_key":    "aabbccddeeff00112233445566778899aabbccddeeff00112233445566778899",
+        "encryption_key": "112233445566778899aabbccddeeff00112233445566778899aabbccddeeff00"
+    },
+    "bob": {
+        "signing_key":    "deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+        "encryption_key": "cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe"
+    }
+}

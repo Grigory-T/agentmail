@@ -1,0 +1,10 @@
+venv/
+keys/
+addressbook.json
+read_marker
+mailbox.db
+mailbox.db-wal
+mailbox.db-shm
+*.pem
+*.log
+__pycache__/
